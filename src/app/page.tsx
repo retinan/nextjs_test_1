@@ -6,6 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <h1>NEXT JS</h1>
         <h2>branch: test1</h2>
+        <h3>before branch: test1-1</h3>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         by. retin
